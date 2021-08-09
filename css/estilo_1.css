@@ -1,0 +1,63 @@
+body {
+	margin: 0px;
+	background-color: #B8A561;
+}
+.p_rodApe {
+	padding: 10px;
+	margin-top: 5px;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #111111;
+}
+.topo {
+	margin-top: 0px;
+	margin-left: 0px;
+	height: 175px;
+	width: 100%;
+	background-image: url(../images/imagen_topo.png);
+}
+.mesTRA {
+	width: auto;
+	height: 593px;
+	background-image: url(../images/fundo_web.jpg);
+}
+.rodApe {
+	background-color: #F6990B;
+	width: 100%;
+	height: 80px;
+	margin-bottom: 0px;
+}
+#apDiv2 {
+	position:absolute;
+	left:0px;
+	top:175px;
+	width:100%;
+	height:30px;
+	background-color:#FFFFFF;
+	layer-background-color:#CCC;
+	border:1px none #000000;
+	z-index:1;
+	padding: 3px;
+	font-family: Verdana, Geneva, sans-serif;
+}
+.tesT {
+	width: 100%;
+	height: 440px;
+	left: 0px;
+	margin-top: 10px;
+	margin-left: 0px;
+}
+a:link, a:visited {
+	background-color: #B26509;
+	color: #FFFFFF;
+	padding: 1px 1px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+a:hover, a:active {
+	background-color: #620E03;
+}

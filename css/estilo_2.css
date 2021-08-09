@@ -1,0 +1,49 @@
+body {
+	margin: 0px;
+	background-color: #B8A561;
+}
+
+.assunTo {
+	width: 100%;
+	height: 440px;
+	padding: 10px;
+	border: 2px;
+	padding-top: 30px;
+	background-image: url(../images/fundo_page_02.png);
+}
+.texto {
+	font-size: 14px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #FFF;
+	left: 15px;
+}
+Div.imgHome1 {
+	width: 320px;
+	display: inline-block;
+	border: 0px;
+}
+h1 {
+	font-size: 18px;
+	font-family: Verdana, Geneva, sans-serif;
+	color: #FFF;
+}
+p {
+	color:#FFFFFF;
+	font-family:Verdana, Geneva, sans-serif;
+	font-size:14px;
+	
+	}
+	
+.forM	{
+	width: 500px;
+	height: 280px;
+	background-color: #D03E40;
+	padding-left: 25px;
+	padding-top: 25px;
+	opacity: 0.8;
+	border-color: #FFF;
+	border: 3px;
+	color: #FFF;
+	font-size: 18px;
+	font-family: Verdana, Geneva, sans-serif;
+	}

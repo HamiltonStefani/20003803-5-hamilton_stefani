@@ -1,0 +1,22 @@
+body {
+	margin: 0px;
+	background-color: #B8A561;
+}
+
+h1 {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 40px;
+	color: #C10940;
+}
+.divFotos {
+	padding: 24;
+	height: 650px;
+	width: 880px;
+}
+.text {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 25px;
+	color: #600;
+	left: 20px;
+	padding: 12;
+}
