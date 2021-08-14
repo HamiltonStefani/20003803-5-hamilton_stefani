@@ -12,7 +12,7 @@
 
 
 <div class="assunTo">
-<h1>Home - Produtos</h1>
+<h1>Home - Produtos - Saiba mais clicando nas imagens!</h1>
  <div class="imgHome1"><a href="pages/produto1.php" target="_blank" onClick="window.open(this.href, this.target, 'width=900,height=700');"><img src="./images/home_01.jpg" width="320" height="320
 " alt="Geléia de Framboesa"/></a><span class="texto">Framboesa elit Donec molestie nunc tellus<br />ac ultrices arcu semper mattis.<br /> Mauris sodales nec nulla.</span></div>
   
