@@ -1,7 +1,7 @@
 #  ATIVIDADE AVALIATIVA DA UNICESUMAR  
 ##  CURSO  SUPERIOR DE TECNOLOGIA EM SISTEMAS PARA INTERNET
 ##  ALUNO:  Hamilton Stefani
-##  SOBRE A ATIVIDADE MAPA  DA MAPA - PROGRAMAÇÃO BACK END I - 53/2021
+##  SOBRE A ATIVIDADE MAPA  DA MATÉRIA - PROGRAMAÇÃO BACK END I - 53/2021
 ###  Nesta atividade mapa será produzido uma solução tecnológica que auxilie um microempreendedor do setor de doces caseiros a divulgar seu produto.
 ### 1 – Página Index contendo:
 1.1 - Um topo.
